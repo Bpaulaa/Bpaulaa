@@ -1,0 +1,36 @@
+
+.capa {
+    background: url("https://informarsaude.com.br/templates/yootheme/cache/top-bem-estar-fisico-mental-894cbe7e.jpeg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    color: black;
+    border: 2px solid white;
+    text-decoration: none;
+    width: 200px;
+    height: 20px;
+    background: transparent;
+    text-transform: uppercase;
+    border-color: aliceblue;
+    transition: 2s ease-in-out;
+}
+
+.btn:hover {
+    background: white;
+    color: black;
+}
+.habitos { 
+    text-align: center;
+}
+
+.habitos p {
+
+    font-size: 21px;
+}
